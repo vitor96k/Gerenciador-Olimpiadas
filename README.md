@@ -2,7 +2,7 @@
 
 Dsenvolvimento de um programa que gerencie as Olímpiads 2016 para a disciplina de Estrutura de Dados - 2º Ano Ciência da Computação.
 
-<h2> Processos <h2>
+<h2> Processos </h2>
 
 1) A pessoa candidata-se aos eventos a que deseja assistir, informando, também o número de ingressos que deseja para cada evento. <br />
 
