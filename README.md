@@ -21,9 +21,12 @@ Os arquivos executáveis deverão ter os nomes riose, riosd, riode, riodd. O pri
 <h2> Execução e Parâmetros: </h2>
 
 ```diff
-+ make
-+ riodd "parametros"
+cd src/riodd
+make
+riodd "parametros"
 ```
+
+<br />
 
 
 ![Alt text](parametros.png?raw=true "exec")
