@@ -1,6 +1,6 @@
 # Gerenciador Jogos Olimpicos 2016
 
-Dsenvolvimento de um programa que gerencie as Olímpiads 2016 para a disciplina de Estrutura de Dados - 2º Ano Ciência da Computação.
+Dsenvolvimento de um programa que gerencia as Olímpiads 2016 para a disciplina de Estrutura de Dados - 2º Ano Ciência da Computação.
 
 <h2> Processos: </h2>
 
